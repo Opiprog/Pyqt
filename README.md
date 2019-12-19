@@ -6,3 +6,6 @@ C:\ProgramData\Anaconda\Scripts> pyuic5.exe -x f:\python\timeplanner1.ui -o f:\p
 
 Note. There can not be any spaces in the folder names
 
+You need pyuic.exe to be added to the scripts folder in Anaconda
+for this in command prompt type:
+conda install pyqt
